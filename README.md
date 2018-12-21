@@ -15,7 +15,7 @@ Here are the concepts we implement:
 
 # Full Tutorial
 
-We have a [website](https://camposha.info) and [YouTube channel](http://www.youtube.com/c/programmingwizards). View the full tutorial in them and more tutorials
+We have a [website](https://camposha.info) and [YouTube channel,ProgrammingWizards TV](http://www.youtube.com/c/programmingwizards). View the full tutorial in them and more tutorials
 like this.
 
 
